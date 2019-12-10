@@ -1,1 +1,3 @@
-
+<input type="radio" name="langueage" value="CSS">CSS<br>
+        <input type="radio" name="langueage" value="JavaScript">JavaScript<br>
+        <input type="radio" name="langueage" value="Python">Python <br>
