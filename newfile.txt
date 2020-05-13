@@ -1,1 +1,3 @@
 new file created
+
+some text added as a change
